@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/beatgammit/deflate-js.png)](http://travis-ci.org/beatgammit/deflate-js)
 Intro
 =====
 
